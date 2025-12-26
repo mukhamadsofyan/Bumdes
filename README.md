@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="{{asset("LandingPage/images/logo_bumdes.png")}}" width="160" alt="Logo BumDes Pakukerto">
+  <img src="LandingPage/images/logo_bumdes.png" width="160" alt="Logo BumDes Pakukerto">
 </p>
 
 <h1 align="center">Sistem Informasi BumDes Pakukerto</h1>
